@@ -9,6 +9,7 @@ The goal of this project was to classify text messages based on their content as
 - Use gradio link to submit text messages for classification in input textbox.
 
 ## Example 
+![Screenshot 2024-08-13 at 4 15 00 PM](https://github.com/user-attachments/assets/6f52f72f-792c-4836-8e0c-0ffc0fffc763)
 
 
 
